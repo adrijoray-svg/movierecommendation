@@ -1,0 +1,10 @@
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+tqdm
+requests
+python-dotenv
+urllib3
