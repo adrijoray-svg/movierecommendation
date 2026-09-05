@@ -8,3 +8,4 @@ tqdm
 requests
 python-dotenv
 urllib3
+nltk
